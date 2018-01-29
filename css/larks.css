@@ -1,0 +1,22 @@
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.navbar {
+    position: initial;
+}
+
+.clearfix,
+form,
+.payment_methods li {
+    display: block !important;
+}
+
+#acc-slider {
+    width: 100% !important;
+}
+
+.liteAccordion .slide>div {
+    top: 10px;
+}
