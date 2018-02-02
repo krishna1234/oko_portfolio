@@ -11,4 +11,7 @@ $(document).ready(function() {;
         firstSlide: 1,
         linkable: false
     });
+
+    $('#tablepress-1').DataTable();
+
 });
